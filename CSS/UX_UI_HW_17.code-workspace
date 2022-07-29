@@ -1,0 +1,34 @@
+{
+  "folders": [
+    {
+      "path": ".."
+    },
+    {
+      "path": "../../../18-Week/18.3-activities"
+    },
+    {
+      "path": "../../17.2-activities (1)"
+    },
+    {
+      "path": "../../../../../Class Activities/19.1-activities"
+    },
+    {
+      "path": "../../../../../Class Activities/19.2-activities"
+    },
+    {
+      "path": "../../../../../Class Activities/17.2-activities (1)"
+    },
+    {
+      "path": "../../../../../Class Activities/17.3_activities"
+    },
+    {
+      "path": "../../../../../Class Activities/19.3-activities"
+    },
+    {
+      "path": "../../../18-Week/UX_UI_HW_18"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "17.3_activities"
+  }
+}
