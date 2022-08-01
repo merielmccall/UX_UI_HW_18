@@ -24,11 +24,23 @@ ul {
   padding: 25px;
 }
 
+.profilePic {
+  float: left;
+  padding: 25px;
+}
+
+.mainPic {
+  float: left;
+  padding: 25px;
+}
 .content {
   width: 500px;
   margin: 0 auto;
 }
 
+.caseStudies {
+  text-align: center;
+}
 li {
   padding: 25px;
 }
@@ -43,6 +55,23 @@ li {
   width: 100px;
 }
 
+.rrmPic {
+  height: auto;
+  width: 100%;
+}
+
+.mnsurePic {
+  height: 300px;
+}
+
+.dearmanPic {
+  height: 200px;
+}
+.workGrid {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  gap: 25px;
+}
 footer {
   background-color: #373738;
   color: rgb(241, 245, 243);
